@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola
 
-<!--
-**Ing-Dslay/Ing-Dslay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pentester junior en formación, enfocado en entender los
+fundamentos de redes, Linux y pruebas de penetración.
 
-Here are some ideas to get you started:
+Actualmente documento laboratorios prácticos, errores comunes
+y soluciones reales como parte de mi proceso de aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Enfoque actual
+- Fundamentos de redes y modelo OSI
+- Enumeración de servicios
+- Metasploit (uso consciente, no automático)
+- Pivoting y movimiento lateral (nivel introductorio)
+
+---
+
+## 🧪 Laboratorios
+- 🔗 Metasploit Pivoting Lab (en progreso)
+
+---
+
+## 🛠️ Herramientas
+- Nmap
+- Metasploit Framework
+- Linux (Kali)
+- VirtualBox
+- Bash (básico)
+
+---
+
+## 🧠 Forma de aprendizaje
+Me interesa entender por qué algo falla antes de buscar
+una solución rápida. Documento errores y aprendizajes
+como parte del proceso.
